@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Osama Nasser Mohamed</h1>
+<h3 align="center">A passionate Machine Learning Engineer from EGYPT</h3>
+
+ 
 # 💫 About Me:
 🔭 I'm currently working on Deep Learning projects, Computer Vision, and LLMs<br>🤝 I'm looking to collaborate on AI/ML open-source projects & research  <br>🧠 I'm looking for help with MLOps, deployment at scale, and advanced optimization techniques  <br>🌱 I'm currently learning Diffusion Models, Transformers Architecture, and Multimodal AI <br>💬 Ask me about Deep Learning, PyTorch, TensorFlow, CNNs, GANs, NLP, or anything AI-related  <br>⚡ Fun fact I can make neural networks dream... literally! (Trained my first GAN on memes 😂)
 
